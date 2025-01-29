@@ -1,5 +1,5 @@
 # Smart-Cooking-Assistance-
-prepared by: Aghadir Jammah- Atha Alghamdi
+prepared by:Aghadir Jammah-Atha Alghamdi
 
 
 ‏هو تطبيق ويب تفاعلي يساعد المستخدمين في إنشاء وصفات طعام بناءً على المكونات التي يملكونها. يعتمد التطبيق على الذكاء الاصطناعي للتعرف على المكونات من الصور واقتراح وصفات مناسبة، مع إمكانية توليد صور للأطباق المقترحة.
